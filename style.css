@@ -9,6 +9,16 @@ body{
     background-color: black;
 }
 
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #1a156e5b;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
 .container{
     width: 400px;
     padding: 25px 35px;
